@@ -27,7 +27,7 @@ Estudiante de **último semestre de Ingeniería Electrónica** y profesional té
 
 * **[RACUD](https://github.com):** Aplicación móvil multiplataforma y backend desarrollada para la automatización de flujos de caja y control financiero (Proyecto Productivo SENA).
 * **[Proyecto-SENA](https://github.com):** Sistema de escritorio en Java conectado a una base de datos relacional MySQL para la gestión operativa empresarial de Corsantos SAS.
-* **[Sistemas de Instrumentación Virtual (Video Demostración 1)]([https://youtube.com](https://www.youtube.com/watch?v=KUuwKh02CL0&t=24s)):** Diseño y desarrollo de un Producto Mínimo Viable (MVP) enfocado en sistemas embebidos e instrumentación.
+* **[Sistemas de Instrumentación Virtual (Video Demostración 1)]([https://youtube.com](https://www.youtube.com/watch?v=KUuwKh02CL0&t=24s):** Diseño y desarrollo de un Producto Mínimo Viable (MVP) enfocado en sistemas embebidos e instrumentación.
 * **[Supervisión y Control de Procesos (Video Demostración 2)](https://www.youtube.com/watch?v=o3V9DcWtgaY):** Integración de un instrumento virtual con simulación en Proteus para la adquisición de datos en tiempo real, control por Set Points (Temperatura, pH, Presión, Nivel) y exportación automatizada de reportes.
 ---
 
